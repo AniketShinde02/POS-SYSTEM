@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "InUYJRUzeDeTzqYGl8H3",
+    "id": "InUYJRUzeDeTzqYGl8H3",
+    "name": "Grocery Staples",
+    "slug": "grocery-staples",
+    "description": "Daily food essentials",
+    "isActive": true,
+    "createdAt": "2026-09-18T08:29:25.589Z",
+    "updatedAt": "2026-09-18T08:29:25.590Z"
+  },
+  {
+    "_id": "Ipwf83Cbs2JuO6PPoHzh",
+    "id": "Ipwf83Cbs2JuO6PPoHzh",
+    "name": "Grocery Staples",
+    "slug": "grocery-staples",
+    "description": "Daily food essentials",
+    "isActive": true,
+    "createdAt": "2026-09-18T07:14:20.330Z",
+    "updatedAt": "2026-09-18T07:14:20.330Z"
+  }
+]

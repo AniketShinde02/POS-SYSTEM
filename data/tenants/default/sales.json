@@ -1,0 +1,375 @@
+[
+  {
+    "id": "test_upi_tx_1789739646260",
+    "invoiceNumber": "INV-260918-8890",
+    "items": [
+      {
+        "productId": "prod-cotton-tshirt",
+        "name": "Classic Cotton T-Shirt",
+        "sku": "TSH-001",
+        "quantity": 2,
+        "price": 599,
+        "discount": 10,
+        "tax": 0,
+        "subtotal": 1078.2
+      },
+      {
+        "productId": "prod-denim-jeans",
+        "name": "Slim Fit Denim Jeans",
+        "sku": "JNS-002",
+        "quantity": 1,
+        "price": 1499,
+        "discount": 0,
+        "tax": 0,
+        "subtotal": 1499
+      }
+    ],
+    "subtotal": 2577.2,
+    "discount": 50,
+    "tax": 126.36,
+    "total": 2653.56,
+    "payments": [
+      {
+        "method": "upi",
+        "amount": 2653.56,
+        "reference": "UPI9876543210"
+      }
+    ],
+    "cashierId": "emp-test-admin",
+    "status": "completed",
+    "isOffline": false,
+    "createdAt": "2026-09-18T13:54:06.353Z",
+    "updatedAt": "2026-09-18T13:54:06.354Z",
+    "_id": "test_upi_tx_1789739646260"
+  },
+  {
+    "id": "test_cash_tx_1789739645671",
+    "invoiceNumber": "INV-260918-4690",
+    "items": [
+      {
+        "productId": "prod-cotton-tshirt",
+        "name": "Classic Cotton T-Shirt",
+        "sku": "TSH-001",
+        "quantity": 1,
+        "price": 599,
+        "discount": 0,
+        "tax": 0,
+        "subtotal": 599,
+        "barcode": "8901234567890"
+      }
+    ],
+    "subtotal": 599,
+    "discount": 0,
+    "tax": 107.82,
+    "total": 706.8199999999999,
+    "payments": [
+      {
+        "method": "cash",
+        "amount": 706.8199999999999
+      }
+    ],
+    "cashierId": "emp-test-admin",
+    "status": "completed",
+    "isOffline": false,
+    "createdAt": "2026-09-18T13:54:05.753Z",
+    "updatedAt": "2026-09-18T13:54:05.754Z",
+    "_id": "test_cash_tx_1789739645671"
+  },
+  {
+    "_id": "7MgtXzDWxrSvimY2MYc0",
+    "id": "7MgtXzDWxrSvimY2MYc0",
+    "invoiceNumber": "INV-1789737231901",
+    "items": [
+      {
+        "productId": "prod-cotton-tshirt",
+        "name": "Classic Cotton T-Shirt",
+        "sku": "TSH-001",
+        "quantity": 1,
+        "price": 599,
+        "discount": 0,
+        "tax": 0,
+        "subtotal": 599
+      }
+    ],
+    "subtotal": 599,
+    "discount": 0,
+    "tax": 0,
+    "total": 599,
+    "payments": [
+      {
+        "method": "cash",
+        "amount": 599
+      }
+    ],
+    "customerName": "Walk-in Customer",
+    "cashierId": "tlHZjD55IkZZNca5grwfWonxjyb2",
+    "cashierName": "Cashier Demo",
+    "status": "completed",
+    "createdAt": "2026-09-18T13:13:51.902Z",
+    "updatedAt": "2026-09-18T13:13:51.902Z"
+  },
+  {
+    "_id": "1nkx7A1OQghCjqLtwCSP",
+    "id": "1nkx7A1OQghCjqLtwCSP",
+    "invoiceNumber": "INV-1789735463545",
+    "items": [
+      {
+        "productId": "prod-cotton-tshirt",
+        "name": "Classic Cotton T-Shirt",
+        "sku": "TSH-001",
+        "quantity": 1,
+        "price": 599,
+        "discount": 0,
+        "tax": 0,
+        "subtotal": 599
+      }
+    ],
+    "subtotal": 599,
+    "discount": 0,
+    "tax": 0,
+    "total": 599,
+    "payments": [
+      {
+        "method": "cash",
+        "amount": 599
+      }
+    ],
+    "customerName": "Walk-in Customer",
+    "cashierId": "tlHZjD55IkZZNca5grwfWonxjyb2",
+    "cashierName": "Cashier Demo",
+    "status": "completed",
+    "createdAt": "2026-09-18T12:44:23.545Z",
+    "updatedAt": "2026-09-18T12:44:23.546Z"
+  },
+  {
+    "_id": "RffHfQWWxlYbrFxQ3Buv",
+    "id": "RffHfQWWxlYbrFxQ3Buv",
+    "invoiceNumber": "INV-1789735437679",
+    "items": [
+      {
+        "productId": "prod-cotton-tshirt",
+        "name": "Classic Cotton T-Shirt",
+        "sku": "TSH-001",
+        "quantity": 1,
+        "price": 599,
+        "discount": 0,
+        "tax": 0,
+        "subtotal": 599
+      }
+    ],
+    "subtotal": 599,
+    "discount": 0,
+    "tax": 0,
+    "total": 599,
+    "payments": [
+      {
+        "method": "cash",
+        "amount": 599
+      }
+    ],
+    "customerName": "Walk-in Customer",
+    "cashierId": "tlHZjD55IkZZNca5grwfWonxjyb2",
+    "cashierName": "Cashier Demo",
+    "status": "completed",
+    "createdAt": "2026-09-18T12:43:57.679Z",
+    "updatedAt": "2026-09-18T12:43:57.680Z"
+  },
+  {
+    "_id": "30XB24SgNPAiUdkaiRxF",
+    "id": "30XB24SgNPAiUdkaiRxF",
+    "invoiceNumber": "INV-1789735383803",
+    "items": [
+      {
+        "productId": "prod-cotton-tshirt",
+        "name": "Classic Cotton T-Shirt",
+        "sku": "TSH-001",
+        "quantity": 1,
+        "price": 599,
+        "discount": 0,
+        "tax": 0,
+        "subtotal": 599
+      }
+    ],
+    "subtotal": 599,
+    "discount": 0,
+    "tax": 0,
+    "total": 599,
+    "payments": [
+      {
+        "method": "cash",
+        "amount": 599
+      }
+    ],
+    "customerName": "Walk-in Customer",
+    "cashierId": "tlHZjD55IkZZNca5grwfWonxjyb2",
+    "cashierName": "Cashier Demo",
+    "status": "completed",
+    "createdAt": "2026-09-18T12:43:03.803Z",
+    "updatedAt": "2026-09-18T12:43:03.804Z"
+  },
+  {
+    "_id": "kxxUy7h58mYZbMk4M8jP",
+    "id": "kxxUy7h58mYZbMk4M8jP",
+    "invoiceNumber": "INV-1789735358502",
+    "items": [
+      {
+        "productId": "prod-cotton-tshirt",
+        "name": "Classic Cotton T-Shirt",
+        "sku": "TSH-001",
+        "quantity": 1,
+        "price": 599,
+        "discount": 0,
+        "tax": 0,
+        "subtotal": 599
+      }
+    ],
+    "subtotal": 599,
+    "discount": 0,
+    "tax": 0,
+    "total": 599,
+    "payments": [
+      {
+        "method": "cash",
+        "amount": 599
+      }
+    ],
+    "customerName": "Walk-in Customer",
+    "cashierId": "tlHZjD55IkZZNca5grwfWonxjyb2",
+    "cashierName": "Cashier Demo",
+    "status": "completed",
+    "createdAt": "2026-09-18T12:42:38.502Z",
+    "updatedAt": "2026-09-18T12:42:38.503Z"
+  },
+  {
+    "id": "SALE-CASH-1789719987220",
+    "invoiceNumber": "INV-260918-7548",
+    "items": [
+      {
+        "productId": "tLqxuMH6r5egl4kqfufm",
+        "name": "Aashirvaad Superior MP Atta 5kg",
+        "sku": "ATT-5KG",
+        "quantity": 1,
+        "price": 295,
+        "discount": 0,
+        "tax": 0,
+        "subtotal": 295
+      }
+    ],
+    "subtotal": 295,
+    "discount": 0,
+    "tax": 0,
+    "total": 295,
+    "payments": [
+      {
+        "method": "cash",
+        "amount": 295,
+        "reference": "Cash: ₹500 (Change: ₹205)"
+      }
+    ],
+    "cashierId": "admin-test-01",
+    "status": "completed",
+    "isOffline": false,
+    "createdAt": "2026-09-18T08:26:27.319Z",
+    "updatedAt": "2026-09-18T08:26:27.320Z",
+    "_id": "SALE-CASH-1789719987220"
+  },
+  {
+    "id": "SALE-TEST-1789719985510",
+    "invoiceNumber": "INV-260918-0888",
+    "items": [
+      {
+        "productId": "tLqxuMH6r5egl4kqfufm",
+        "name": "Aashirvaad Superior MP Atta 5kg",
+        "sku": "ATT-5KG",
+        "quantity": 2,
+        "price": 295,
+        "discount": 0,
+        "tax": 5,
+        "subtotal": 590
+      }
+    ],
+    "subtotal": 590,
+    "discount": 0,
+    "tax": 0,
+    "total": 590,
+    "payments": [
+      {
+        "method": "upi",
+        "amount": 590,
+        "reference": "UPI-UTR-991823746"
+      }
+    ],
+    "cashierId": "admin-test-01",
+    "status": "completed",
+    "isOffline": false,
+    "createdAt": "2026-09-18T08:26:26.018Z",
+    "updatedAt": "2026-09-18T08:26:26.018Z",
+    "_id": "SALE-TEST-1789719985510"
+  },
+  {
+    "id": "SALE-CASH-1789716362872",
+    "invoiceNumber": "INV-260918-5417",
+    "items": [
+      {
+        "productId": "tLqxuMH6r5egl4kqfufm",
+        "name": "Aashirvaad Superior MP Atta 5kg",
+        "sku": "ATT-5KG",
+        "quantity": 1,
+        "price": 295,
+        "discount": 0,
+        "tax": 0,
+        "subtotal": 295
+      }
+    ],
+    "subtotal": 295,
+    "discount": 0,
+    "tax": 0,
+    "total": 295,
+    "payments": [
+      {
+        "method": "cash",
+        "amount": 295,
+        "reference": "Cash: ₹500 (Change: ₹205)"
+      }
+    ],
+    "cashierId": "admin-test-01",
+    "status": "completed",
+    "isOffline": false,
+    "createdAt": "2026-09-18T07:26:03.006Z",
+    "updatedAt": "2026-09-18T07:26:03.006Z",
+    "_id": "SALE-CASH-1789716362872"
+  },
+  {
+    "id": "SALE-TEST-1789716361280",
+    "invoiceNumber": "INV-260918-6539",
+    "items": [
+      {
+        "productId": "tLqxuMH6r5egl4kqfufm",
+        "name": "Aashirvaad Superior MP Atta 5kg",
+        "sku": "ATT-5KG",
+        "quantity": 2,
+        "price": 295,
+        "discount": 0,
+        "tax": 5,
+        "subtotal": 590
+      }
+    ],
+    "subtotal": 590,
+    "discount": 0,
+    "tax": 0,
+    "total": 590,
+    "payments": [
+      {
+        "method": "upi",
+        "amount": 590,
+        "reference": "UPI-UTR-991823746"
+      }
+    ],
+    "cashierId": "admin-test-01",
+    "status": "completed",
+    "isOffline": false,
+    "createdAt": "2026-09-18T07:26:01.501Z",
+    "updatedAt": "2026-09-18T07:26:01.501Z",
+    "_id": "SALE-TEST-1789716361280"
+  }
+]

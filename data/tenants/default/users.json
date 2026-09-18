@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "tlHZjD55IkZZNca5grwfWonxjyb2",
+    "id": "tlHZjD55IkZZNca5grwfWonxjyb2",
+    "name": "Cashier Demo",
+    "email": "cashier@pos.local",
+    "role": "cashier",
+    "isActive": false,
+    "createdAt": "2026-09-18T12:47:56.461Z",
+    "updatedAt": "2026-09-18T12:47:56.464Z"
+  },
+  {
+    "_id": "LCca5cPfhvtnSJ2Bm5Ge",
+    "id": "LCca5cPfhvtnSJ2Bm5Ge",
+    "name": "Test",
+    "email": "forapikeys.capsera@gmail.com",
+    "phone": "",
+    "employeeId": "EMP-3809",
+    "role": "cashier",
+    "isActive": true,
+    "permissions": [],
+    "createdAt": "2026-09-18T11:41:07.294Z",
+    "updatedAt": "2026-09-18T11:41:07.294Z"
+  },
+  {
+    "_id": "FWWiZFF7CptDkKg9rkZe",
+    "id": "FWWiZFF7CptDkKg9rkZe",
+    "name": "Rahul Sharma",
+    "email": "rahul@store.local",
+    "phone": "+91 91234 56789",
+    "employeeId": "EMP-2665",
+    "role": "cashier",
+    "isActive": true,
+    "permissions": [],
+    "createdAt": "2026-09-18T07:03:46.118Z",
+    "updatedAt": "2026-09-18T07:03:46.118Z"
+  }
+]

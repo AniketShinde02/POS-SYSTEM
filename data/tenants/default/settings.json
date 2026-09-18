@@ -1,0 +1,23 @@
+[
+  {
+    "storeName": "Super Retail Mart",
+    "storeAddress": "",
+    "storePhone": "+91 98765 43210",
+    "logo": "",
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "taxRate": 18,
+    "taxName": "GST",
+    "language": "en",
+    "invoicePrefix": "SRM",
+    "invoiceFooter": "",
+    "lowStockAlert": true,
+    "theme": "system",
+    "gstin": "",
+    "upiId": "",
+    "updatedAt": "2026-09-18T07:03:10.646Z",
+    "_id": "general",
+    "id": "general",
+    "createdAt": "2026-09-18T07:03:10.646Z"
+  }
+]

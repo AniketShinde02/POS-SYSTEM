@@ -1,0 +1,17 @@
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+    
+    match /tenants/{tenantId}/products/{allPaths=**} {
+      // Publicly readable so product images can be viewed anywhere
+      allow read: if true;
+      // Write requires authenticated user
+      allow write: if request.auth != null;
+    }
+
+    match /{allPaths=**} {
+      allow read, write: if request.auth != null;
+    }
+  }
+}
